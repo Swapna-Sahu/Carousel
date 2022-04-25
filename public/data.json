@@ -1,0 +1,38 @@
+[
+    {
+        "id": "109d23ad-8b95-4a9d-afdf-46ef35b1b2cd",
+        "description1": "An experience that makes us feel like we’re covered in maple syrup - ",
+        "colored" : "It’s a good thing",
+        "description2": " The whole team @ The Pancake Collective™"
+    },
+    {
+        "id": "109d23ad-8b95-4a9d-afdf-46ef35b1b2ce",
+        "description1": "There are two ways to write error-free programs; ",
+        "colored" : "only the third one works",
+        "description2": " Quoted by Alan J. Perlis"
+    },
+    {
+        "id": "109d23ad-8b95-4a9d-afdf-46ef35b1b2cf",
+        "description1": "I think Microsoft named .Net so it wouldn’t show up in  ",
+        "colored" : "a Unix directory listing.",
+        "description2": " Quoted by Alan J. Perlis"
+    },
+    {
+        "id": "109d23ad-8b95-4a9d-afdf-46ef35b1b2cc",
+        "description1": "The best performance - transition from ",
+        "colored" : "nonworking to  working state.",
+        "description2": " Funniest quotes from J. Osterhout"
+    },
+    {
+        "id": "109d23ad-8b95-4a9d-afdf-46ef35b1b2cc",
+        "description1": "One man’s crappy software is another man’s  ",
+        "colored" : "full-time job.",
+        "description2": " Jessica Gaston @ Programming quotes"
+    },
+    {
+        "id": "109d23ad-8b95-4a9d-afdf-46ef35b1b2cc",
+        "description1": "Programming is like sex. One mistake and you have to support it for  ",
+        "colored" : "the rest of ur life.",
+        "description2": " Michael Sinz @ Fun Quotes House"
+    }
+]
