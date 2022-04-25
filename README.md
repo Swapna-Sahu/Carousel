@@ -1,6 +1,5 @@
 # Ocean-Carousel
 
-## Frontend Test
 
 ## Purpose 
 See Slides using Carousel
