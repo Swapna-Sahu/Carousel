@@ -1,4 +1,4 @@
-# Ocean-Carousel
+# Carousel
 
 
 ## Purpose 
